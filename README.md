@@ -1,6 +1,7 @@
 # JuegoPreguntasRespuestas
 
-# creado en netbeans 8.1
+# creado en netbeans 8.2
+
 
 # base de datos mysql
 
